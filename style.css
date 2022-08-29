@@ -1,0 +1,12 @@
+.food-display{
+    overflow-y: scroll;
+    height: 75vh;
+}
+.footer-part{
+    background-color: black;
+    height: 15vh;
+    font-size: 10px;
+}
+.hr{
+    border: 2px solid blue;
+}
